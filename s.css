@@ -60,6 +60,11 @@ button{
     font-size: larger;
 }
 
+button:hover{
+    border-radius: 15px;
+
+}
+
 .number{
     border: none;
     border-radius: 5px;

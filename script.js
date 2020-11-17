@@ -82,4 +82,5 @@ function replay()
     headding.textContent = "Guess The Number...?";
     symdis.textContent = "?";
     randomNumber = Math.floor(Math.random() * 20)+1;
+    currentScore = 20;
 }
