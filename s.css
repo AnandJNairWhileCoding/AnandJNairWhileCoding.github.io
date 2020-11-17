@@ -18,7 +18,7 @@
 .container{
     height: clamp(600px,100vh,100vh);
     width: 100%;
-    background-image: linear-gradient(to bottom right,rgba(243, 146, 18, 0.87), rgba(231, 195, 134, 0.829)),url("https://www.lefthudson.com/wp-content/uploads/2019/11/polygonal-wallpaper-fresh-polygon-background-c2b7e291a0-download-free-beautiful-high-resolution-backgrounds-for-desktop-mobile-inspiration-of-polygonal-wallpaper.jpg");
+    background-image: linear-gradient(to bottom right,rgba(243, 146, 18, 0.87), rgba(231, 195, 134, 0.829)),url("image/image.jpg");
     padding: 17vh 10vw 8vh;
     background-repeat: no-repeat;
     background-size: cover;
