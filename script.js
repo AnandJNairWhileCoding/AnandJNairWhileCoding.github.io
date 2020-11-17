@@ -83,4 +83,5 @@ function replay()
     symdis.textContent = "?";
     randomNumber = Math.floor(Math.random() * 20)+1;
     currentScore = 20;
+    document.querySelector(".number").value="";
 }
